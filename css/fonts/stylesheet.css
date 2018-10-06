@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Balqis';
+    src: url('Balqis.eot');
+    src: local('Balqis'),
+        url('Balqis.eot?#iefix') format('embedded-opentype'),
+        url('Balqis.woff2') format('woff2'),
+        url('Balqis.woff') format('woff'),
+        url('Balqis.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Znikomit';
+    src: url('Znikomit.eot');
+    src: local('Znikomit'),
+        url('Znikomit.eot?#iefix') format('embedded-opentype'),
+        url('Znikomit.woff2') format('woff2'),
+        url('Znikomit.woff') format('woff'),
+        url('Znikomit.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+

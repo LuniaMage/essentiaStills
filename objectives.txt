@@ -1,0 +1,42 @@
+Questions
+  responsible for photo loading mechanism on client side?
+  should the site be wordpress?
+Schedule
+Monday
+  Files
+    HTML
+    CSS/Sass
+    package.json
+    gulp
+    dependancies  
+    git commit
+    add assets
+Tuesday
+  landing page
+    logo
+    animate.css or canva gif or canvas
+Wednesday
+  CSS grid layout
+Thursday
+
+Friday
+
+Technologies
+  Node.js
+  Vue.js
+  Gulp
+  Sass
+  CSS grid
+
+Assets
+  photogallery
+    https://drive.google.com/drive/folders/1xpRToCfMGcrORxXyzn_qssvOd2ukZbLj
+  inspo sites
+    https://www.kandkphotography.com/
+      - this one is my favorite. Clean lines. Simple. Pleasing to the eyes when you go to the site. I like the link she added of “kind words” for testimonials. 
+    https://brittanyelise.com/?gclid=CjwKCAjw9e3YBRBcEiwAzjCJul9s2mkUC9utlkqPAbHV685rR5GeVYmWrEYXYjh1l21jah-QOIh-URoC0H0QAvD_BwE
+      - clean lines. Soft colors. Pleasing to the eyes. Love the font this site used. 
+    http://www.caitlinworthington.com/editorial#0
+      - this one I also love. Clean and simple. Not busy and straight to the point. Simple site really showcase the photos and the work of the photographer. 
+
+      
