@@ -1,79 +1,48 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 @font-face {
   font-family: "Balqis", script;
+  font-style: normal;
+  font-weight: normal;
   src: url("Balqis.eot");
   src: local("Balqis");
   src: url("Balqis.eot?#iefix") format("embedded-opentype");
   src: url("Balqis.woff2") format("woff2");
   src: url("Balqis.woff") format("woff");
   src: url("Balqis.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
 }
 @font-face {
   font-family: "Znikomit", serif;
+  font-weight: 100;
+  font-style: normal;
   src: url("Znikomit.eot");
   src: local("Znikomit");
   src: url("Znikomit.eot?#iefix") format("embedded-opentype");
   src: url("Znikomit.woff2") format("woff2");
   src: url("Znikomit.woff") format("woff");
   src: url("Znikomit.ttf") format("truetype");
-  font-weight: 100;
-  font-style: normal;
 }
 body {
-  font-family: "Znikomit", serif;
   color: #252423;
+  font-family: "Znikomit", serif;
   font-size: 20px;
   font-weight: bolder;
+  height: 100vh;
   text-rendering: optimizeLegibility;
 }
 
-.container {
-  display: grid;
-  grid-gap: 5px;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 25px 200px 500px 100px;
-  border: black solid 3px;
-}
-
-.nav {
-  background-color: #f3a683;
-  grid-column: 3/13;
-  grid-row: 1/2;
-}
-
-.logo {
-  background-color: #63cdda;
-  grid-column: 1/3;
-  grid-row: 1/2;
-}
-
-/* <-------------------- HEADER --------------------> */ 
-.header {
-  background-color: #f8a5c2;
-  grid-column: 1/13;
-  grid-row: 2/3;
-}
-
-/* <-------------------- GALLERY --------------------> */   
-.main {
-  background-color: #b8e994;
-  background-image: url("/");
-  grid-column: 1/13;
-  grid-row: 3/4;
-}
-
-/* <-------------------- FOOTER --------------------> */ 
-.footer {
-  background-color: #f5cd79;
-  grid-column: 1/13;
-  grid-row: 4/5;
+.hero-image {
+  background-attachment: scroll;
+  background-color: #252423;
+  background-image: url("/assets/logo2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
 }
 
 /*# sourceMappingURL=style.css.map */
